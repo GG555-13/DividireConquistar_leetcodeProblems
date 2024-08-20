@@ -30,4 +30,4 @@ Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetC
 **Pré-requisito**: Compilador de Python3.
 
 ## Link da Apresentação
-[Apresentação PA 17 - LeetCode Problems - Dividir e Conquistar]()<br>
+[Apresentação PA 17 - LeetCode Problems - Dividir e Conquistar](https://www.youtube.com/watch?v=XAQw4_Y_Tvw)<br>
