@@ -40,7 +40,7 @@ return dvc(list(range(1, N + 1)))
 
 - O método `beautifulArray` começa criando uma lista de números consecutivos de 1 até \( N \). Esta lista é então passada para a função `dvc (Divide and Conquer)`.
 
-#### 2. Função de Divisão e Conquista
+### 2. Função de Divisão e Conquista
 
 ```python
 def dvc(nums: List[int]) -> List[int]:
@@ -63,7 +63,7 @@ def dvc(nums: List[int]) -> List[int]:
 
 - **Combinação**: Após resolver os subproblemas, a função combina as soluções concatenando os resultados dos subconjuntos `even` e `odd`. 
 
-#### 3. Resultado Final
+### 3. Resultado Final
 
 - A função principal `beautifulArray` retorna o resultado da função `dvc` aplicada à lista de números de 1 a ( N ).
 
