@@ -16,13 +16,13 @@ Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetC
 ![](./src/assets/Sub11.png)
 
 [Difícil: 218. The Skyline Problem ](https://leetcode.com/problems/the-skyline-problem/description/)<br>
-![](./src/assets/Sub12)
+![](./src/assets/Sub12.png)
 
 [Média: 395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)<br>
-![](./src/assets/Sub21.png)
+![](./src/assets/Sub22.png)
 
 [Média: 932. Beautiful Array ](https://leetcode.com/problems/beautiful-array/description/)<br>
-![](./src/assets/Sub22)
+![](./src/assets/Sub21.png)
 
 ## Instalação 
 **Linguagem**: Python3  <br> 
@@ -30,4 +30,4 @@ Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetC
 **Pré-requisito**: Compilador de Python3.
 
 ## Link da Apresentação
-[Apresentação PA 17 - LeetCode Problems - Dividir e Conquistar](https://youtu.be/_f1Kq2slbX8)<br>
+[Apresentação PA 17 - LeetCode Problems - Dividir e Conquistar]()<br>
