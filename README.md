@@ -1,7 +1,7 @@
 # LeetCode Problems
 
 **Número da Lista**: 17 <br>
-**Conteúdo da Disciplina**: Grafos 2<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Aluno
 |Matrícula | Aluno |
