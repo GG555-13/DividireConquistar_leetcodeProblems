@@ -65,7 +65,7 @@ def dvc(nums: List[int]) -> List[int]:
 
 #### 3. Resultado Final
 
-- A função principal `beautifulArray` retorna o resultado da função `dvc` aplicada à lista de números de 1 a \( N \).
+- A função principal `beautifulArray` retorna o resultado da função `dvc` aplicada à lista de números de 1 a ( N ).
 
 ### Complexidade do Algoritmo
 
@@ -77,7 +77,7 @@ Vamos analisar a complexidade considerando as operações principais do algoritm
 
 - **Combinação**: A combinação dos resultados das chamadas recursivas envolve simplesmente a concatenação das listas, o que pode ser feito em tempo linear `O(n)` para cada nível de recursão.
 
-**Complexidade Total**: A complexidade total do algoritmo é `O(n \log n)`, onde `(n)` é o número de elementos na lista inicial. Isso se deve ao fato de que o algoritmo faz `O(log n)` chamadas recursivas, e cada nível de recursão requer uma operação de combinação linear.
+**Complexidade Total**: A complexidade total do algoritmo é `O(n log n)`, onde `(n)` é o número de elementos na lista inicial. Isso se deve ao fato de que o algoritmo faz `O(log n)` chamadas recursivas, e cada nível de recursão requer uma operação de combinação linear.
 
 
 **Submissão:**<br>
@@ -231,7 +231,7 @@ Aqui, o índice médio `mid` é calculado e a lista `nums` é dividida em duas p
 
 ### 2. Contagem de Pares Inversos
 
-Após dividir a lista, antes de combinar as duas metades, o algoritmo conta os pares inversos que cruzam a divisão (ou seja, onde \(i\) está na primeira metade e \(j\) na segunda metade):
+Após dividir a lista, antes de combinar as duas metades, o algoritmo conta os pares inversos que cruzam a divisão (ou seja, onde (i) está na primeira metade e (j) na segunda metade):
 
 ```python
 j = mid + 1
